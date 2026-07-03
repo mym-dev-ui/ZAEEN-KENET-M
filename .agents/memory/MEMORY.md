@@ -1,0 +1,1 @@
+- [Vercel→Replit migration pattern](vercel-migration.md) — Next.js app ported to react-vite artifact; key steps and gotchas recorded.

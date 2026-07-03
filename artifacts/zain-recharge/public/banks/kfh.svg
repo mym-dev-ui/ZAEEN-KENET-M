@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 225 78" role="img" aria-label="KFH logo">
+  <g transform="translate(2 10)" fill="#5ec23a">
+    <path d="M28 0 39 11 28 22 17 11 28 0Z"/>
+    <path d="M11 17 22 28 11 39 0 28 11 17Z"/>
+    <path d="M28 34 39 45 28 56 17 45 28 34Z"/>
+    <path d="M45 17 56 28 45 39 34 28 45 17Z"/>
+    <path d="M12 6c10 0 18 8 18 18H20c0-5-4-9-8-9V6Z"/>
+    <path d="M44 6v9c-5 0-9 4-9 9H25c0-10 8-18 19-18Z"/>
+    <path d="M12 50v-9c4 0 8-4 8-9h10c0 10-8 18-18 18Z"/>
+    <path d="M44 50c-11 0-19-8-19-18h10c0 5 4 9 9 9v9Z"/>
+  </g>
+  <text x="68" y="28" font-family="Tahoma, Arial, sans-serif" font-size="16" font-weight="700" fill="#84b85f">بيت التمويل الكويتي</text>
+  <text x="68" y="56" font-family="Arial, sans-serif" font-size="33" font-weight="800" fill="#5ec23a">KFH</text>
+</svg>

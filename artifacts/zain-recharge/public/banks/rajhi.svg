@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 78" role="img" aria-label="Rajhi logo">
+  <g transform="translate(5 11)" fill="none" stroke="#4d42d9" stroke-width="5.5" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M28 0 48 14v24L28 52 8 38V14L28 0Z"/>
+    <path d="M8 14h20v38"/>
+    <path d="M48 14H28"/>
+  </g>
+  <text x="68" y="28" font-family="Tahoma, Arial, sans-serif" font-size="16" font-weight="700" fill="#4d42d9">مصرف الراجحي</text>
+  <text x="68" y="56" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#4d42d9">alrajhi bank</text>
+</svg>

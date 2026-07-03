@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 78" role="img" aria-label="Weyay logo">
+  <g transform="translate(8 19) rotate(-14 20 16)">
+    <rect x="0" y="1" width="14" height="5" rx="2.5" fill="#17172f" />
+    <rect x="0" y="14" width="14" height="5" rx="2.5" fill="#17172f" />
+    <rect x="0" y="27" width="14" height="5" rx="2.5" fill="#17172f" />
+    <rect x="18" y="1" width="14" height="5" rx="2.5" fill="#22d3a7" />
+    <rect x="18" y="14" width="14" height="5" rx="2.5" fill="#22d3a7" />
+    <rect x="18" y="27" width="14" height="5" rx="2.5" fill="#22d3a7" />
+  </g>
+  <text
+    x="58"
+    y="49"
+    font-family="Arial, sans-serif"
+    font-size="44"
+    font-weight="800"
+    fill="#17172f"
+    letter-spacing="-1.3"
+  >
+    Weyay
+  </text>
+</svg>

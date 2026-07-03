@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 78" role="img" aria-label="Warba logo">
+  <g transform="translate(192 13)" fill="#6f1db7">
+    <path d="M0 2 14 15 0 28l6 3 17-16L6 0 0 2Z"/>
+    <path d="M6 18 16 28 6 38l6 4 14-14-14-14-6 4Z"/>
+  </g>
+  <text x="8" y="27" font-family="Tahoma, Arial, sans-serif" font-size="16" font-weight="700" fill="#6f1db7">بنك وربة</text>
+  <text x="8" y="56" font-family="Arial, sans-serif" font-size="28" font-weight="800" fill="#6f1db7">WARBA BANK</text>
+</svg>
