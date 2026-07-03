@@ -16,7 +16,7 @@ run = "pnpm --filter @workspace/zain-recharge run dev"
 [services.production]
 build = [ "pnpm", "--filter", "@workspace/zain-recharge", "run", "build" ]
 serve = "static"
-publicDir = "artifacts/zain-recharge/dist/public"
+publicDir = "artifacts/zain-recharge/dist"
 
 [[services.production.rewrites]]
 from = "/*"
